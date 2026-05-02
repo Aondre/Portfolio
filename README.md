@@ -1,6 +1,6 @@
-# Aondre Franklin — Professional Portfolio
+# Aondre Franklin — Portfolio
 
-Personal portfolio website for **Aondre Franklin**, Senior DevOps Engineer at Bank of America. Built to give recruiters, hiring managers, and collaborators a clear picture of my experience, projects, and technical background.
+This is my Portfolio website. Senior DevOps Engineer at Bank of America. Built to give recruiters, hiring managers, and collaborators a clear picture of my experience, projects, and technical background.
 
 ---
 
