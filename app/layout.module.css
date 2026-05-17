@@ -1,0 +1,19 @@
+/* layout.module.css */
+.wrapper {
+  display: flex;
+}
+
+.sidebar {
+  width: var(--sidebar-w);
+  min-height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--blue);
+}
+
+.main {
+  margin-left: var(--sidebar-w);
+  flex: 1;
+  min-height: 100vh;
+}
